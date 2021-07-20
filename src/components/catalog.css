@@ -1,0 +1,25 @@
+
+/* .catalog-page {
+    margin-top: 10rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;cl
+    flex-wrap: wrap;
+    border-radius: 1.5rem;
+    justify-content: space-evenly;
+    flex-basis: auto;
+    
+} */
+
+.product-container {
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+h4 {
+    margin-top: 4rem;
+    font-size: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
