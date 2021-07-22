@@ -1,0 +1,71 @@
+.OGForm {
+    margin-top: 5rem;
+    background-color: rgb(255, 255, 255);
+    height:40rem;
+    width: 40rem;
+    border: 2px solid rgb(0, 0, 0);
+    
+    font-weight: bold;
+     padding: 10px;
+     margin-left: 15rem;
+     box-shadow:1px 1px 6px 6px  rgba(0, 129, 39, 0.239);
+     border-radius: 10px;
+    text-align: left;
+    
+}
+.form-Container {
+display: flex;
+
+}
+
+
+.btn {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    border-radius: 10px;
+    color: rgb(3, 165, 3);
+}
+.btn:hover {
+    background-color: rgba(0, 128, 0, 0.486);
+    color:white;
+    border: 1px solid black;
+}
+
+
+
+.contactinfo {
+    margin-top: 10rem;
+    text-align: left;
+    margin-left: 5rem;   
+   
+    width: 32rem;
+}
+
+.Office {
+    margin-bottom: 3rem;
+}
+
+.bussiness {
+    margin-bottom: 3rem;
+}
+
+.el {
+    margin-left: 2rem;
+
+}
+.fli {
+    margin-left: 1rem;
+}
+
+
+.sL input {
+  width: 5rem;
+}
+
+
+.concact-P {
+    font-size: medium;
+    margin-top: 2rem;
+    color: green;
+    margin-bottom: 2rem;
+}

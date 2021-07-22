@@ -1,0 +1,45 @@
+img {
+
+  height: 15rem;
+  position: cover;
+  width: 15.8rem;
+  border-top-right-radius: .5rem;
+  border-top-left-radius: .5rem;
+
+   
+ 
+   
+}
+
+p {
+    font-size: 14px;
+}
+ 
+.total{
+    border:1px solid black;
+    display: center center;
+}
+
+h6 {
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-family: 'Covered By Your Grace', cursive;
+   
+    display: inline-block;
+}
+
+.pc {
+  
+    border:  2px solid black;
+    border-radius: .6rem;
+    width: 16rem;
+    box-shadow:3px 2px 3px 3px rgb(192, 189, 189);
+}
+
+.text-bg {
+ 
+    border: 3px solid rgb(255, 255, 255);
+    margin-top: 3rem;
+    
+   
+}

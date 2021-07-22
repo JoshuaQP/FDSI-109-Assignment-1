@@ -1,0 +1,45 @@
+label {
+    
+    width: 4em;
+    font: 3rem;
+    height: 2rem;
+}
+
+
+.cart {
+    margin-top: 1rem;
+    background-color: rgb(245, 245, 250);
+    width: 4rem;
+    height: 2rem;
+}
+/* .btn{
+    width: 4rem;
+    border: 2px solid black ;
+    margin-bottom: 2px;
+} */
+
+.quantity-picker {
+     
+     margin-bottom:3rem; 
+     margin-top: 2rem;       
+  
+     display: center center; 
+          
+}
+
+.green {
+    background-color: rgba(4, 107, 4, 0.548);
+    border: 2px solid rgb(255, 255, 255) ;
+    margin-bottom: 2px;
+    width: 4rem;
+    color: white;
+}
+
+.red {
+    background-color: rgba(128, 0, 0, 0.5);
+    border: 2px solid rgb(255, 255, 255) ;
+    margin-bottom: 2px;
+    width: 4rem;
+    color: white;
+
+}
